@@ -1,4 +1,4 @@
-# PuDuiono
+# PuDuino
 Study project 
 Requirements:
 PyQt5==5.15.11 
