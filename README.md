@@ -1,4 +1,4 @@
-# PuDuino
+# PyDuino
 Study project, the point of project is to understand how to connect PC an arduino using python and Arduino Ide, so we have interface made on python, and protocol made in arduino
 
 Protocol: start - starts writing pot values
