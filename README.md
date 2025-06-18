@@ -20,5 +20,8 @@ some wires(father father)
 
 
 
+![Иллюстрация к проекту](https://github.com/heavymetalfan1123/PuDuino/raw/main/ard.png)
+
+![Иллюстрация к проекту](https://github.com/heavymetalfan1123/PuDuino/raw/main/scheme.png)
 
 /** MADE BY GRIF **/
