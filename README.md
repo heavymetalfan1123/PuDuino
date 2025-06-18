@@ -13,8 +13,11 @@ pyqtgraph==0.13.7
 pyserial==3.5
 
 Arduino Ide
+
 breadboard
+
 some wires(father father)
+
 2 potentiometer
 
 
